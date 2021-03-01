@@ -5,6 +5,13 @@
 Trecho de código em JavaScript:
 `console.log("Hello World!")`
 
+**Listagem**
+1. Item1
+2. Item2
+3. Item3
+
+**Contato**
+* ["Linkedin"](https://www.linkedin.com/in/gabriellealmeidacuba/ )
 
 
 
